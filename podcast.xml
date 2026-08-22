@@ -30,7 +30,14 @@
       <description>Auto-converted video episode.</description>
       <pubDate>Sat, 22 Aug 2026 21:39:31 GMT</pubDate>
       <guid>https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787434727086_BSFL29.mp3</guid>
-      <enclosure url="https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787434727086_BSFL29.mp3" length="26050164" type="audio/mpeg" />
+      <enclosure length="26050164" type="audio/mpeg" url="https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787434727086_BSFL29.mp3" />
+    </item>
+    <item>
+      <title>BSFLDEBBIE2</title>
+      <description>Auto-converted video episode.</description>
+      <pubDate>Sat, 22 Aug 2026 21:40:49 GMT</pubDate>
+      <guid>https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787434808488_BSFLDEBBIE2.mp3</guid>
+      <enclosure url="https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787434808488_BSFLDEBBIE2.mp3" length="22457541" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
