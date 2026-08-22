@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>BSF YA Podcast</title>
+    <link>https://fried82.github.io/bsf-ya-ni-podcast-feed/</link>
+    <description>BSF Young Adults Podcast Feed</description>
+    <language>en-us</language>
+    <item>
+      <title>John Christy - Workshop</title>
+      <description>Auto-converted video episode.</description>
+      <pubDate>Sat, 22 Aug 2026 18:58:41 GMT</pubDate>
+      <guid>https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787425107906_John_Christy_-_Workshop.mp3</guid>
+      <enclosure url="https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787425107906_John_Christy_-_Workshop.mp3" length="10125523" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
+
