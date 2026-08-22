@@ -10,7 +10,14 @@
       <description>Auto-converted video episode.</description>
       <pubDate>Sat, 22 Aug 2026 18:58:41 GMT</pubDate>
       <guid>https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787425107906_John_Christy_-_Workshop.mp3</guid>
-      <enclosure url="https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787425107906_John_Christy_-_Workshop.mp3" length="10125523" type="audio/mpeg" />
+      <enclosure length="10125523" type="audio/mpeg" url="https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787425107906_John_Christy_-_Workshop.mp3" />
+    </item>
+    <item>
+      <title>John Christy - Workshop</title>
+      <description>Auto-converted video episode.</description>
+      <pubDate>Sat, 22 Aug 2026 21:08:12 GMT</pubDate>
+      <guid>https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787432878454_John_Christy_-_Workshop.mp3</guid>
+      <enclosure url="https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787432878454_John_Christy_-_Workshop.mp3" length="10125523" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
