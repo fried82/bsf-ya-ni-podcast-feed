@@ -11,34 +11,6 @@
       <itunes:email>bsfnir@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://fried82.github.io/bsf-ya-ni-podcast-feed/spotify.png" />
-    <item>
-      <title>John Christy - Workshop</title>
-      <description>Auto-converted video episode.</description>
-      <pubDate>Sat, 22 Aug 2026 21:10:32 GMT</pubDate>
-      <guid>https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787433008558_John_Christy_-_Workshop.mp3</guid>
-      <enclosure length="10125523" type="audio/mpeg" url="https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787433008558_John_Christy_-_Workshop.mp3" />
-    </item>
-    <item>
-      <title>BSFL14</title>
-      <description>Auto-converted video episode.</description>
-      <pubDate>Sat, 22 Aug 2026 21:25:02 GMT</pubDate>
-      <guid>https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787433868612_BSFL14.mp3</guid>
-      <enclosure length="27553498" type="audio/mpeg" url="https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787433868612_BSFL14.mp3" />
-    </item>
-    <item>
-      <title>BSFL29</title>
-      <description>Auto-converted video episode.</description>
-      <pubDate>Sat, 22 Aug 2026 21:39:31 GMT</pubDate>
-      <guid>https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787434727086_BSFL29.mp3</guid>
-      <enclosure length="26050164" type="audio/mpeg" url="https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787434727086_BSFL29.mp3" />
-    </item>
-    <item>
-      <title>BSFLDEBBIE2</title>
-      <description>Auto-converted video episode.</description>
-      <pubDate>Sat, 22 Aug 2026 21:40:49 GMT</pubDate>
-      <guid>https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787434808488_BSFLDEBBIE2.mp3</guid>
-      <enclosure url="https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787434808488_BSFLDEBBIE2.mp3" length="22457541" type="audio/mpeg" />
-    </item>
   </channel>
 </rss>
 
