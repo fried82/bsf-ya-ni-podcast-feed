@@ -11,6 +11,13 @@
       <itunes:email>bsfnir@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://fried82.github.io/bsf-ya-ni-podcast-feed/spotify.png" />
+    <item>
+      <title>BSFL2911</title>
+      <description>Auto-converted video episode.</description>
+      <pubDate>Sat, 22 Aug 2026 21:55:50 GMT</pubDate>
+      <guid>https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787435702691_BSFL2911.mp3</guid>
+      <enclosure url="https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787435702691_BSFL2911.mp3" length="26050164" type="audio/mpeg" />
+    </item>
   </channel>
 </rss>
 
