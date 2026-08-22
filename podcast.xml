@@ -23,7 +23,14 @@
       <description>Auto-converted video episode.</description>
       <pubDate>Sat, 22 Aug 2026 21:56:23 GMT</pubDate>
       <guid>https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787435763602_John_Christy_-_Workshop2.mp3</guid>
-      <enclosure url="https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787435763602_John_Christy_-_Workshop2.mp3" length="10125523" type="audio/mpeg" />
+      <enclosure length="10125523" type="audio/mpeg" url="https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787435763602_John_Christy_-_Workshop2.mp3" />
+    </item>
+    <item>
+      <title>Lesson 05 - Romans 3:20-4:18 - Sharon Rice</title>
+      <description>Auto-converted video episode.</description>
+      <pubDate>Sat, 22 Aug 2026 22:20:50 GMT</pubDate>
+      <guid>https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787437210244_Lesson_05_-_Romans_3_20-4_18_-_Sharon_Rice.mp3</guid>
+      <enclosure url="https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1787437210244_Lesson_05_-_Romans_3_20-4_18_-_Sharon_Rice.mp3" length="25576128" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
