@@ -11,6 +11,13 @@
       <itunes:email>bsfnir@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://fried82.github.io/bsf-ya-ni-podcast-feed/spotify.png" />
+    <item>
+      <title>Lesson 00 - Romans Overview - Mairi Smith</title>
+      <description><![CDATA[1. Who, When and Why?<br>- God reveals Himself and speaks to us through His Word<br><br>2. What?<br>- God, by grace, transforms our lives through the Gospel]]></description>
+      <pubDate>Mon, 07 Sep 2026 11:45:08 GMT</pubDate>
+      <guid>https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1788781472767_Lesson_00_-_Romans_Overview_-_Mairi_Smith.mp3</guid>
+      <enclosure url="https://storage.googleapis.com/bsf-ya-ni-podcast-mp3s/1788781472767_Lesson_00_-_Romans_Overview_-_Mairi_Smith.mp3" length="26265741" type="audio/mpeg" />
+    </item>
   </channel>
 </rss>
 
